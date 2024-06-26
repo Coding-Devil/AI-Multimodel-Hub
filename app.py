@@ -14,7 +14,6 @@ client = OpenAI(
   api_key=os.environ.get('HUGGINGFACEHUB_API_TOKEN')#"hf_xxx" # Replace with your token
 ) 
 
-
 #Create supported models
 model_links ={
     "Meta-Llama-3-8B":"meta-llama/Meta-Llama-3-8B-Instruct", 
