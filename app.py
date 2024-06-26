@@ -8,9 +8,6 @@ from dotenv import load_dotenv, dotenv_values
 load_dotenv()
 
 
-
-
-
 # initialize the client
 client = OpenAI(
   base_url="https://api-inference.huggingface.co/v1",
