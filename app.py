@@ -15,7 +15,6 @@ client = OpenAI(
 ) 
 
 
-
 #Create supported models
 model_links ={
     "Meta-Llama-3-8B":"meta-llama/Meta-Llama-3-8B-Instruct", 
