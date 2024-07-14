@@ -39,10 +39,6 @@ Check out this quick demo of the AI Model Hub in action:
 
 Pull requests and contributions are welcome! If you have any suggestions, ideas, or want to improve the hub, feel free to open an issue or submit a PR.
 
-## About Me 👨‍💻
-
-I'm passionate about AI and building cool projects like this AI Model Hub. Connect with me on [LinkedIn](your-linkedin-profile) and let's chat about AI, tech, or anything interesting!
-
 ## Acknowledgements 🙏
 
 Special thanks to the amazing folks at Hugging Face for their incredible models and to the Streamlit team for making it easy to build interactive web apps with Python!
