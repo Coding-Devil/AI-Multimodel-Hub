@@ -32,8 +32,7 @@ Hey there! 👋 This repository houses an awesome AI Model Hub that integrates v
 
 ## Demo 🎥
 
-Check out this quick demo of the AI Model Hub in action:
-[Website :](https://ai-multimodel.streamlit.app/)
+Check out this quick demo of the AI Model Hub in action [Website 🚀](https://ai-multimodel.streamlit.app/)
 
 ## Contributing 🤝
 
