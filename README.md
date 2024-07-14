@@ -1,6 +1,4 @@
-Of course! Here's a fun and creative README for your GitHub repository, designed to impress with a touch of personality and emojis:
 
-```markdown
 # 🌟 Welcome to My AI Model Hub! 🤖
 
 Hey there! 👋 This repository houses an awesome AI Model Hub that integrates various Hugging Face models under a single interface using Streamlit. Whether you're into AI Chat, generating images from text 🖼️, or having engaging conversations with AI 🗣️, this hub has something exciting for you!
@@ -50,5 +48,4 @@ I'm passionate about AI and building cool projects like this AI Model Hub. Conne
 Special thanks to the amazing folks at Hugging Face for their incredible models and to the Streamlit team for making it easy to build interactive web apps with Python!
 
 ---
-
-Built with ❤️ by [GOKULNATH](link-to-your-profile) 👨‍💻
+Built with ❤️ by [GOKULNATH](https://github.com/Coding-Devil) 👨‍💻
