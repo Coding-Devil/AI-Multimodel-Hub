@@ -14,7 +14,7 @@ Hey there! 👋 This repository houses an awesome AI Model Hub that integrates v
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/your-repo.git
+   git clone https://github.com/Coding-Devil/AI-Multimodel-Hub.git
    cd your-repo
    ```
 
