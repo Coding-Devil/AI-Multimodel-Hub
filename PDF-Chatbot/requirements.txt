@@ -1,0 +1,9 @@
+torch
+transformers
+sentence-transformers
+langchain
+tqdm
+accelerate
+pypdf
+chromadb
+unidecode

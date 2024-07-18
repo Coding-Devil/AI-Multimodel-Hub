@@ -1,0 +1,4 @@
+git+https://github.com/huggingface/diffusers.git@sd3
+git+https://github.com/huggingface/transformers
+sentencepiece
+peft
