@@ -7,7 +7,7 @@ Hey there! 👋 This repository houses an awesome AI Model Hub that integrates v
 
 - **AI Chat**: Engage in meaningful conversations with AI models.
 - **Chat with Doc**: Interact intelligently with documents and text.
-- **Text to Image Generation**: Transform text descriptions into stunning images.
+- **Text to Image Generation**: Transform text descriptions into stunning images. 
 - **Voice Chat**: Have a conversation using voice inputs.
 
 ## Getting Started 🚀
