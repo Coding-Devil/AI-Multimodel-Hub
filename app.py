@@ -1,6 +1,6 @@
 import streamlit as st
 import streamlit.components.v1 as components
-
+ 
 # Define the Hugging Face spaces URLs
 urls = {
     "DRAWY : Text 2 Image": "https://ehristoforu-dalle-3-xl-lora-v2.hf.space/",
