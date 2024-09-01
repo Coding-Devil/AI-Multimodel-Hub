@@ -10,7 +10,8 @@ urls = {
 }
 
 # Title of the app
-st.title("ANTI-GPT : AI Multi-Model Hub")
+st.title("ANTI-GPT")
+st.header("AI Multi-Model Hub")
 st.markdown("---")
 
 # Instructions for users
