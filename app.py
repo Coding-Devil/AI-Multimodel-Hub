@@ -5,7 +5,7 @@ import streamlit.components.v1 as components
 urls = {
     "DRA : Text 2 Img": "https://ehristoforu-dalle-3-xl-lora-v2.hf.space/",
     "RAG : PDF Assistant": "https://cvachet-pdf-chatbot.hf.space/",
-    "CONVO 4 : AI Chat": "https://gokulnath2003-simplechatbot.hf.space/",
+    "CONVO 4 : AI Chat": "https://ngebodh-simplechatbot.hf.space/",
     "Parler : Voice Chat": "https://parler-tts-parler-tts-mini.hf.space/"
 }
 
