@@ -32,7 +32,7 @@ Hey there! 👋 This repository houses an awesome AI Model Hub that integrates v
 
 ## Demo 🎥
 
-Check out this quick demo of the AI Model Hub in action [Website 🚀](https://ai-multimodel.streamlit.app/)
+Check out this quick demo of the AI Model Hub in action [Website 🚀](https://gokulnath2003-anti-gpt.hf.space/)
 ![image](https://github.com/user-attachments/assets/c654b822-1ac4-4441-84e7-818ba45f5a5a)
 
 
