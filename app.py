@@ -6,7 +6,7 @@ urls = {
     "DRAW : Text 2 Img": "https://ehristoforu-dalle-3-xl-lora-v2.hf.space/",
     "RAG : PDF Assistant": "https://cvachet-pdf-chatbot.hf.space/",
     "CONVO 4 : AI Chat": "https://ngebodh-simplechatbot.hf.space/",
-    "Parler : Voice Chat": "https://parler-tts-parler-tts-mini.hf.space/"
+    "Parler : Voice Chat": "https://parler-tts-parler-tts.hf.space/"
 }
 
 # Title of the app
